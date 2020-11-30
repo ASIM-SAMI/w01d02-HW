@@ -28,7 +28,7 @@ img:hover{
     
 }
 
-h1,h3{
+h1,h3,h2{
     padding: 2% 0;
     background-color: #02325C;
     color:#FFFFFF;
@@ -60,3 +60,27 @@ a{
     margin: 5%;
     color:black;
 }
+a:hover{
+color: white;
+}
+
+table{
+    margin:10% 30%;
+    min-width: 200px;
+    width: 40%;
+
+    
+}
+
+table th{
+background-color: #02325C ;
+color:#FFFFFF;
+
+}
+
+table td{
+background-color: #5F85A6;
+color:#FFFFFF;
+
+}
+
